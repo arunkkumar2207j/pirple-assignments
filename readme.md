@@ -1,2 +1,2 @@
 # Pirple Assignment
-This reposatory contains all assignments
+This repo contains all assignments completed for the NodeJs Master Class
